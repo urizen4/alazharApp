@@ -8,7 +8,7 @@ $bamba=utilisateur();
 <br>
 <br>
 <section class="section-popular   white-text">
-    <center><a href="addUser.php" class="btn btn-large cyan waves-effect waves-light pulse">AJOUTER UN ADMINISTRATEUR</a></center>
+    <div><a href="addUser.php" class="btn btn-large cyan waves-effect waves-light pulse">AJOUTER UN ADMINISTRATEUR</a></div>
    <div class="card-panel transparent">
    <div class="card-title red darken-3 center">
     <h1><i>L'ADMINISTRATION</i></h1>
@@ -51,4 +51,3 @@ $bamba=utilisateur();
 <?php
  include_once '../footer1.php';
  ?>
- <?php
